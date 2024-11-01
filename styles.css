@@ -1,0 +1,49 @@
+.seasons {
+    background-color: #6c0000;
+    color: white;
+}
+
+.seasons-1 {
+    font-size: 20px;
+    background-color: #9f604b;
+    color: white;
+}
+
+.seasons-2 {
+    font-size: 20px;
+    background-color: #b28f82;
+    color: black;
+}
+.body {
+    background-color: #DDB869;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.box
+ {
+    justify-content: center;
+}
+
+#autumn {
+    background-color: #FFD700;
+    color: black;
+}
+
+#winter {
+    background-color: #3b6fd7;
+    color: white;
+}
+
+#spring {
+     background-color: #E6E6FA;
+     color: #4B0082;
+}
+
+#summer {
+     background-color: #FFFF00;
+     color: #1E90FF;
+}
+
+
+
